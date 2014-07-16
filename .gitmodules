@@ -1,0 +1,30 @@
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git@github.com:msanders/snipmate.vim.git
+[submodule "bundle/tlib_vim"]
+	path = bundle/tlib_vim
+	url = git@github.com:tomtom/tlib_vim.git
+[submodule "bundle/vim-addon-mw-utils"]
+	path = bundle/vim-addon-mw-utils
+	url = git@github.com:MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-coffee-script"]
+	path = bundle/vim-coffee-script
+	url = git@github.com:kchmck/vim-coffee-script.git
+[submodule "bundle/vim-javascript"]
+	path = bundle/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git@github.com:tpope/vim-rails.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git@github.com:tpope/vim-surround.git
