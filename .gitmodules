@@ -6,7 +6,7 @@
 	url = git@github.com:scrooloose/nerdcommenter.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = git@github.com:msanders/snipmate.vim.git
+	url = git@github.com:caike/snipmate.vim.git
 [submodule "bundle/tlib_vim"]
 	path = bundle/tlib_vim
 	url = git@github.com:tomtom/tlib_vim.git
